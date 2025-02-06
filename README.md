@@ -27,3 +27,7 @@
 25.02.04 파이썬 데이터 분석 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-04.md))
 
 25.02.05 Numpy 심화 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-05.md))
+
+25.02.06 Pandas 심화 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-06.md))
+
+25.02.07 2주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-07.md))
