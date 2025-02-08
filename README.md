@@ -31,3 +31,5 @@
 25.02.06 Pandas 심화 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-06.md))
 
 25.02.07 2주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-07.md))
+
+25.02.08 주말강의 - 선형대수 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-08.md))
