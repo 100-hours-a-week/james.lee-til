@@ -37,3 +37,13 @@
 ### [2월 둘째주, 3주차] : 분석 결과 시각화
 
 25.02.10 데이터 시각화 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-10.md))
+
+25.02.11 크램폴린 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-11.md))
+
+25.02.12 Seaborn ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-12.md))
+
+25.02.13 Scipy ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-13.md))
+
+25.02.14 3주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-14.md))
+
+25.02.15 주말강의 - 선형대수 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-15.md))
