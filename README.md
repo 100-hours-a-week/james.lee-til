@@ -54,6 +54,6 @@
 
 25.02.18 머신러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-18.md))
 
-25.02.19 ㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-19.md))
+25.02.19 보충강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-19.md))
 
 25.02.20 ㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-20.md))
