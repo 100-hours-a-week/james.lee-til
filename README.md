@@ -59,3 +59,5 @@
 25.02.20 AI API 서버 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-20.md))
 
 25.02.21 4주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-21.md))
+
+25.02.22 주말강의 - RAG와 LangChain ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-22.md))
