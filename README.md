@@ -61,3 +61,7 @@
 25.02.21 4주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-21.md))
 
 25.02.22 주말강의 - RAG와 LangChain ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-22.md))
+
+### [2월 넷째주, 5주차] : 딥러닝 기초 1
+
+25.02.24 딥러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-24.md))
