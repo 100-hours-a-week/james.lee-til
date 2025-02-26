@@ -67,3 +67,6 @@
 25.02.24 딥러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-24.md))
 
 25.02.25 해커톤 1일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-25.md))
+
+25.02.26 해커톤 2일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-26.md))
+
