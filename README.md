@@ -70,3 +70,7 @@
 
 25.02.26 해커톤 2일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-26.md))
 
+25.02.27 해커톤 3일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-27.md))
+
+25.02.28 해커톤 4일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-28.md))
+
