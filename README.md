@@ -14,7 +14,7 @@
 
 25.01.24 1주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-24.md))
 
-### [1월 다섯째주, 설연휴] : Git
+### [1월 설연휴] : Git
 
 25.01.27 - 25.01.30 조부모님 댁 방문으로 학습 일시중지
 
@@ -74,3 +74,8 @@
 
 25.02.28 해커톤 4일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-28.md))
 
+### [3월 첫째주, 6주차] : 딥러닝 기초 2
+
+25.03.04 딥러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-04.md))
+
+25.03.05 ㅁㅁㅁ
