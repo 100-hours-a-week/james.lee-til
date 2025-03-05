@@ -78,4 +78,4 @@
 
 25.03.04 딥러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-04.md))
 
-25.03.05 ㅁㅁㅁ
+25.03.05 보충강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-05.md))
