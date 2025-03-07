@@ -81,3 +81,5 @@
 25.03.05 Javascript 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-05.md))
 
 25.03.06 Javascript 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-06.md))
+
+25.03.07 Javascript 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-07.md))
