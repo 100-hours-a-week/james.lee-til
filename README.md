@@ -93,3 +93,7 @@
 25.03.05 LangChain ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-11.md))
 
 25.03.12 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-12.md))
+
+25.03.13 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-13.md))
+
+25.03.14 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-14.md))
