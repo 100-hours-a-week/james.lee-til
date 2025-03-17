@@ -97,3 +97,7 @@
 25.03.13 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-13.md))
 
 25.03.14 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-14.md))
+
+### [3월 셋째주, 8주차] : 데이터베이스
+
+25.03.17 ㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-17.md))
