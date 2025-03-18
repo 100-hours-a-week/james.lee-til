@@ -8,9 +8,9 @@
 
 25.01.21 환경 세팅 및 프로그래밍 기초 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-21.md))
 
-25.01.22 순서도 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-22.md))
+25.01.22 순서도 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-22.md))
 
-25.01.23 멀티스레딩 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-23.md))
+25.01.23 멀티스레딩 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-23.md))
 
 25.01.24 1주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-24.md))
 
@@ -102,7 +102,7 @@
 
 25.03.17 SQL 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-17.md))
 
-25.03.18 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-18.md))
+25.03.18 ERD ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-18.md))
 
 25.03.19 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-19.md))
 
