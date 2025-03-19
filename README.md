@@ -106,6 +106,6 @@
 
 25.03.19 Index ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-19.md))
 
-25.03.20 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-20.md))
+25.03.20 Transaction ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-20.md))
 
 25.03.21 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-21.md))
