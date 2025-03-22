@@ -109,3 +109,5 @@
 25.03.20 Transaction과 NoSQL ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-20.md))
 
 25.03.21 8주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-21.md))
+
+25.03.22 주말강의 - DB ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-22.md))
