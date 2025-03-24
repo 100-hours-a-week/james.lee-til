@@ -113,3 +113,7 @@
 25.03.22 주말강의 - FastAPI 기초와 DB ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-22.md))
 
 25.03.23 주말독학 - API의 Rate limit ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-23.md))
+
+### [3월 넷째주, 9주차] : 개인 프로젝트 발표
+
+25.03.24 개인 프로젝트 중간발표 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-24.md))
