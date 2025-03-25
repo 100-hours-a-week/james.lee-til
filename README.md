@@ -92,11 +92,11 @@
 
 25.03.05 LangChain ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-11.md))
 
-25.03.12 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-12.md))
+25.03.12 휴일 - 백엔드 개념 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-12.md))
 
-25.03.13 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-13.md))
+25.03.13 휴일 - 렌더링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-13.md))
 
-25.03.14 휴일 - 백엔드 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-14.md))
+25.03.14 휴일 - Next.js 환경 준비 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-14.md))
 
 ### [3월 셋째주, 8주차] : 데이터베이스
 
@@ -117,3 +117,5 @@
 ### [3월 넷째주, 9주차] : 개인 프로젝트 발표
 
 25.03.24 개인 프로젝트 중간발표 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-24.md))
+
+25.03.25 개인공부 - 웹페이지 만들기 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-25.md))
