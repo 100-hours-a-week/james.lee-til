@@ -118,4 +118,6 @@
 
 25.03.24 개인 프로젝트 중간발표 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-24.md))
 
-25.03.25 개인공부 - 웹페이지 만들기 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-25.md))
+25.03.25 개인공부 - 웹페이지 만들기 (Next 전반) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-25.md))
+
+25.03.26 개인공부 - 웹페이지 만들기 (Component) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-26.md))
