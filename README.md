@@ -120,4 +120,6 @@
 
 25.03.25 개인공부 - 웹페이지 만들기 (Next 전반) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-25.md))
 
-25.03.26 개인공부 - 웹페이지 만들기 (Component) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-26.md))
+25.03.26 개인공부 - 웹페이지 만들기 (Component와 State) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-26.md))
+
+25.03.27 개인공부 - 웹페이지 만들기 (MongoDB 연동) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-27.md))
