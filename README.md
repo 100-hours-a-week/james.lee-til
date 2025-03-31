@@ -124,6 +124,8 @@
 
 25.03.27 개인공부 - 웹페이지 만들기 (MongoDB 연동) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-27.md))
 
+25.03.28 개인공부 - 웹페이지 만들기 (DB데이터 출력) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-28.md))
+
 ### [4월 첫째주, 10주차] : 프로젝트 기획
 
 25.03.31 서비스 기획 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-31.md))
