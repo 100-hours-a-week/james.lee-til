@@ -131,3 +131,7 @@
 25.03.31 서비스 기획 강의 - 아이디어 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-31.md))
 
 25.04.01 서비스 기획 강의 - 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-01.md))
+
+25.04.02 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-02.md))
+
+25.04.03 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-03.md))
