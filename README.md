@@ -135,3 +135,5 @@
 25.04.02 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-02.md))
 
 25.04.03 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-03.md))
+
+25.04.04 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-04.md))
