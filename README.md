@@ -147,3 +147,7 @@
 25.04.09 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-09.md))
 
 25.04.10 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-10.md))
+
+### [4월 셋째주, 12주차] : 프로젝트 설계
+
+25.04.14 모델 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-14.md))
