@@ -1,4 +1,4 @@
-# TIL - James lee(이찬행) [(18조)](https://github.com/100-hours-a-week/18-team-timeline-wiki)
+# TIL - James lee(이찬행) [(18조)](https://github.com/100-hours-a-week/18-team-timeline-wiki/wiki)
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
