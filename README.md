@@ -158,4 +158,4 @@
 
 25.04.17 스크래핑 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-17.md))
 
-25.04.18 스크래핑 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-18.md))
+25.04.18 모델 조사 + 아키텍처 모듈화 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-18.md))
