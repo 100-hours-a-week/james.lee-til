@@ -163,3 +163,5 @@
 ### [4월 넷째주, 13주차] : 프로젝트 설계
 
 25.04.21 LangChain 조사 - 요약 품질 관리 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-21.md))
+
+25.04.22 아키텍처 모듈 도식 재구성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-22.md))
