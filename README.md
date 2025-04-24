@@ -168,4 +168,4 @@
 
 25.04.23 MCP 관련 조사 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-23.md))
 
-25.04.24 RAG 관련 조사 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-24.md))
+25.04.24 인프라 및 모니터링 관련 조사 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-24.md))
