@@ -172,6 +172,6 @@
 
 25.04.25 기술 멘토링 피드백 + 네트워킹 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-25.md))
 
-### [4월 다섯째주, 14주차] : 프로젝트 설계
+### [4월 다섯째주, 14주차] : MVP 개발
 
-25.04.28 ㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-28.md))
+25.04.28 스크래핑 모듈 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-28.md))
