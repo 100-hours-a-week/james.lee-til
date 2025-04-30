@@ -175,3 +175,7 @@
 ### [4월 다섯째주, 14주차] : MVP 개발
 
 25.04.28 스크래핑 모듈 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-28.md))
+
+25.04.29 스크래핑 모듈 보완 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-29.md))
+
+25.04.30 API 엔드포인트 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-30.md))
