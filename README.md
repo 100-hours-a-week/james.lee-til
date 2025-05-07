@@ -183,3 +183,8 @@
 25.05.01 배포 가능하도록 완성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-01.md))
 
 25.05.02 배포 가능하도록 완성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-02.md))
+
+
+### [5월 첫째주, 15주차] : MVP 개발
+
+25.05.07 스크래핑 품질 향상 + 이미지 수집 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-07.md))
