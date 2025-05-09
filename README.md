@@ -191,4 +191,4 @@
 
 25.05.08 트러블슈팅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-08.md))
 
-25.05.09 Comment 엔드포인트 + API limit ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-09.md))
+25.05.09 Comment 엔드포인트 + 카카오 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-09.md))
