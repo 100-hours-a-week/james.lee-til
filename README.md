@@ -4,6 +4,8 @@
 
 ### [1월 넷째주, 1주차] : 파이썬 프로그래밍
 
+<details>
+ 
 25.01.20 오리엔테이션
 
 25.01.21 환경 세팅 및 프로그래밍 기초 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-21.md))
@@ -14,14 +16,22 @@
 
 25.01.24 1주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-24.md))
 
+</details>
+
 ### [1월 설연휴] : Git
 
+<details>
+ 
 25.01.27 - 25.01.30 조부모님 댁 방문으로 학습 일시중지
 
 25.01.28 Git 공부 및 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-28.md))
 
+</details>
+
 ### [2월 첫째주, 2주차] : 파이썬 데이터 분석
 
+<details>
+ 
 25.02.03 지난 주 복습 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-03.md))
 
 25.02.04 데이터 분석 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-04.md))
@@ -34,8 +44,12 @@
 
 25.02.08 주말강의 - 선형대수 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-08.md))
 
+</details>
+
 ### [2월 둘째주, 3주차] : 분석 결과 시각화
 
+<details>
+ 
 25.02.10 데이터 시각화 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-10.md))
 
 25.02.11 크램폴린 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-11.md))
@@ -48,8 +62,12 @@
 
 25.02.15 주말강의 - 선형대수와 취업특강 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-15.md))
 
+</details>
+
 ### [2월 셋째주, 4주차] : 머신러닝
 
+<details>
+ 
 25.02.17 수학 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-17.md))
 
 25.02.18 머신러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-18.md))
@@ -62,8 +80,12 @@
 
 25.02.22 주말강의 - RAG와 LangChain ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-22.md))
 
+</details>
+
 ### [2월 넷째주, 5주차] : 딥러닝 기초 1
 
+<details>
+ 
 25.02.24 딥러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-24.md))
 
 25.02.25 해커톤 1일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-25.md))
@@ -74,8 +96,12 @@
 
 25.02.28 해커톤 4일차 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/02-Feb/2025-02-28.md))
 
+</details>
+
 ### [3월 첫째주, 6주차] : 딥러닝 기초 2
 
+<details>
+ 
 25.03.04 딥러닝 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-04.md))
 
 25.03.05 Javascript 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-05.md))
@@ -86,8 +112,12 @@
 
 25.03.08 주말강의 - Streamlit ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-08.md))
 
+</details>
+
 ### [3월 둘째주, 7주차] : 생성형AI
 
+<details>
+ 
 25.03.04 생성형AI 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-10.md))
 
 25.03.05 LangChain ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-11.md))
@@ -98,8 +128,12 @@
 
 25.03.14 휴일 - Next.js 환경 준비 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-14.md))
 
+</details>
+
 ### [3월 셋째주, 8주차] : 데이터베이스
 
+<details>
+ 
 25.03.17 SQL 집중강의 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-17.md))
 
 25.03.18 ERD ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-18.md))
@@ -114,8 +148,12 @@
 
 25.03.23 주말독학 - API의 Rate limit ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-23.md))
 
+</details>
+
 ### [3월 넷째주, 9주차] : 개인 프로젝트 발표
 
+<details>
+ 
 25.03.24 개인 프로젝트 중간발표 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-24.md))
 
 25.03.25 개인공부 - 웹페이지 만들기 (Next 전반) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-25.md))
@@ -126,8 +164,12 @@
 
 25.03.28 개인공부 - 웹페이지 만들기 (DB데이터 출력) ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-28.md))
 
+</details>
+
 ### [4월 첫째주, 10주차] : 프로젝트 기획
 
+<details>
+ 
 25.03.31 서비스 기획 강의 - 아이디어 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/03-Mar/2025-03-31.md))
 
 25.04.01 서비스 기획 강의 - 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-01.md))
@@ -138,8 +180,12 @@
 
 25.04.04 서비스 기획 강의 - 애자일 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-04.md))
 
+</details>
+
 ### [4월 둘째주, 11주차] : 프로젝트 기획
 
+<details>
+ 
 25.04.07 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-07.md))
 
 25.04.08 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-08.md))
@@ -148,8 +194,12 @@
 
 25.04.10 서비스 기획 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-10.md))
 
+</details>
+
 ### [4월 셋째주, 12주차] : 프로젝트 설계
 
+<details>
+ 
 25.04.14 API 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-14.md))
 
 25.04.15 스크래핑 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-15.md))
@@ -160,8 +210,12 @@
 
 25.04.18 모델 조사 + 아키텍처 모듈화 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-18.md))
 
+</details>
+
 ### [4월 넷째주, 13주차] : 프로젝트 설계
 
+<details>
+ 
 25.04.21 LangChain 관련 조사 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-21.md))
 
 25.04.22 아키텍처 모듈 도식 재구성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-22.md))
@@ -172,8 +226,12 @@
 
 25.04.25 기술 멘토링 피드백 + 네트워킹 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-25.md))
 
+</details>
+
 ### [4월 다섯째주, 14주차] : MVP 개발
 
+<details>
+ 
 25.04.28 스크래핑 모듈 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-28.md))
 
 25.04.29 스크래핑 모듈 보완 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/04-Apr/2025-04-29.md))
@@ -184,14 +242,20 @@
 
 25.05.02 배포 가능하도록 완성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-02.md))
 
+</details>
+
 ### [5월 첫째주, 15주차] : MVP 개발
 
+<details>
+ 
 25.05.07 스크래핑 품질 향상 + 이미지 수집 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-07.md))
 
 25.05.08 트러블슈팅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-08.md))
 
 25.05.09 Comment 엔드포인트 + 카카오 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-09.md))
 
-### [5월 둘째주, 16주차] : 1차 출시
+</details>
 
+### [5월 둘째주, 16주차] : 1차 출시
+ 
 25.05.12 댓글 분류 속도 향상 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-12.md))
