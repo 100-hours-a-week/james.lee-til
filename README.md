@@ -184,7 +184,6 @@
 
 25.05.02 배포 가능하도록 완성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-02.md))
 
-
 ### [5월 첫째주, 15주차] : MVP 개발
 
 25.05.07 스크래핑 품질 향상 + 이미지 수집 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-07.md))
@@ -192,3 +191,7 @@
 25.05.08 트러블슈팅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-08.md))
 
 25.05.09 Comment 엔드포인트 + 카카오 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-09.md))
+
+### [5월 둘째주, 16주차] : 1차 출시
+
+25.05.12 1차 출시를 위한 디버깅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-12.md))
