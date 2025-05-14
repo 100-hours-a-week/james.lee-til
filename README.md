@@ -259,3 +259,7 @@
 ### [5월 둘째주, 16주차] : 1차 출시
  
 25.05.12 댓글 분류 속도 향상 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-12.md))
+
+25.05.13 요약 길이 조절 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-13.md))
+
+25.05.14 무의미한 검색어 필터링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-14.md))
