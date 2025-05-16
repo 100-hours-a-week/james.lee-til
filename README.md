@@ -266,4 +266,4 @@
 
 25.05.15 Rate limit 도입 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-15.md))
 
-25.05.16 1차 출시 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-16.md))
+25.05.16 파일 정리 + 카카오 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-16.md))
