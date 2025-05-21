@@ -24,7 +24,7 @@
  
 25.01.27 - 25.01.30 조부모님 댁 방문으로 학습 일시중지
 
-25.01.28 Git 공부 및 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-28.md))
+25.01.31 Git 공부 및 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2025-01-28.md))
 
 </details>
 
