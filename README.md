@@ -282,4 +282,4 @@
 
 25.05.22 LangChain 삭제 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-22.md))
 
-25.05.23 ㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-23.md))
+25.05.23 AI 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-23.md))
