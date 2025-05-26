@@ -273,6 +273,8 @@
 </details>
 
 ### [5월 셋째주, 17주차] : 1차 출시
+
+<details>
  
 25.05.19 외국어 번역 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-19.md))
 
@@ -283,3 +285,9 @@
 25.05.22 LangChain 삭제 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-22.md))
 
 25.05.23 AI 멘토링 + 면접 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-23.md))
+
+</details>
+
+### [5월 넷째주, 18주차] : 1차 출시
+
+25.05.26 ㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-26.md))
