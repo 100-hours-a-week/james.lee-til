@@ -290,4 +290,6 @@
 
 ### [5월 넷째주, 18주차] : 1차 출시
 
-25.05.26 ㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-26.md))
+25.05.26 인공지능 속도 개선 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-26.md))
+
+25.05.27 인공지능 속도 개선 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-27.md))
