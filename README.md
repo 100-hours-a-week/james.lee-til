@@ -290,6 +290,8 @@
 
 ### [5월 넷째주, 18주차] : 1차 출시
 
+<details>
+
 25.05.26 인공지능 속도 개선 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-26.md))
 
 25.05.27 인공지능 속도 개선 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-27.md))
@@ -298,4 +300,11 @@
 
 25.05.29 카카오 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-29.md))
 
-25.05.30 ㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-30.md))
+25.05.30 출시 및 디버깅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/05-May/2025-05-30.md))
+
+</details>
+
+### [6월 첫째주, 19주차] : 2차 출시 준비
+
+25.06.02 ㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-02.md))
+
