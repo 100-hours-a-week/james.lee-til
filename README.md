@@ -306,5 +306,5 @@
 
 ### [6월 첫째주, 19주차] : 2차 출시 준비
 
-25.06.02 ㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-02.md))
+25.06.02 AI 성능 향상 위한 조사 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-02.md))
 
