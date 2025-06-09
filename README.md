@@ -310,10 +310,18 @@
 
 25.06.02 AI 성능 향상 위한 조사 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-02.md))
 
+25.06.03 - 25.06.04 대통령 선거일 및 휴가 사용
+
 25.06.05 GPT API의 혼용 테스트 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-05.md))
+
+25.06.06 현충일
 
 </details>
 
 ### [6월 둘째주, 20주차] : 2차 출시 준비
 
 25.06.09 Git 브랜치 재구성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-09.md))
+
+25.06.10 - 25.06.12 예비군 훈련
+
+25.06.13 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-13.md))
