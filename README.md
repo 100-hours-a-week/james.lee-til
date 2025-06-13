@@ -324,4 +324,4 @@
 
 25.06.10 - 25.06.12 예비군 훈련
 
-25.06.13 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-13.md))
+25.06.13 카카오 특강 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-13.md))
