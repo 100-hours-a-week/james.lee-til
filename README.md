@@ -320,8 +320,16 @@
 
 ### [6월 둘째주, 20주차] : 2차 출시 준비
 
+<details>
+
 25.06.09 Git 브랜치 재구성 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-09.md))
 
 25.06.10 - 25.06.12 예비군 훈련
 
 25.06.13 카카오 특강 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-13.md))
+
+</details>
+
+### [6월 셋째주, 21주차] : 2차 출시
+
+25.06.16 V2 디버깅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-16.md))
