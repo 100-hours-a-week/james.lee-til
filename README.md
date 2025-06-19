@@ -337,3 +337,5 @@
 25.06.17 v2 디버깅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-17.md))
 
 25.06.18 v2 디버깅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-18.md))
+
+25.06.19 v2 디버깅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-19.md))
