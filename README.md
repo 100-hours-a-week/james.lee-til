@@ -349,3 +349,5 @@
 ### [6월 넷째주, 22주차] : 2차 출시
 
 25.06.23 Gemini Embedding 도입 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-23.md))
+
+25.06.23 댓글 필터링 문제 해결 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-24.md))
