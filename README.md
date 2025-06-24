@@ -348,6 +348,4 @@
 
 ### [6월 넷째주, 22주차] : 2차 출시
 
-<details>
-
-25.06.23 v2 디버깅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-23.md))
+25.06.23 Gemini Embedding 도입 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-23.md))
