@@ -354,4 +354,6 @@
 
 25.06.25 휴가
 
-25.06.26 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-26.md))
+25.06.26 카카오 특강 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-26.md))
+
+25.06.27 네트워킹 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-27.md))
