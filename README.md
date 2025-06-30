@@ -348,6 +348,8 @@
 
 ### [6월 넷째주, 22주차] : 2차 출시
 
+<details>
+
 25.06.23 Gemini Embedding 도입 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-23.md))
 
 25.06.24 댓글 필터링 문제 해결 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-24.md))
@@ -357,3 +359,9 @@
 25.06.26 카카오 특강 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-26.md))
 
 25.06.27 네트워킹 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-27.md))
+
+</details>
+
+### [7월 첫째주, 23주차] : 2차 출시
+
+25.06.30 AI 모델 서빙 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-30.md))
