@@ -364,4 +364,6 @@
 
 ### [7월 첫째주, 23주차] : 2차 출시
 
-25.06.30 AI 모델 서빙 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-30.md))
+25.06.30 뉴스 분류 BERT 학습 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-30.md))
+
+25.07.01 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-01.md))
