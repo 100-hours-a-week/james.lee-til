@@ -370,4 +370,4 @@
 
 25.07.02 기타 분류 이론 조사 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-02.md))
 
-25.07.03 ㅁㅁㅁㅁ ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-03.md))
+25.07.03 신규 카테고리 도입 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-03.md))
