@@ -364,6 +364,8 @@
 
 ### [7월 첫째주, 23주차] : 2차 출시
 
+<details>
+
 25.06.30 뉴스 분류 BERT 학습 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/06-June/2025-06-30.md))
 
 25.07.01 모델 배포 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-01.md))
@@ -373,3 +375,9 @@
 25.07.03 신규 카테고리 도입 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-03.md))
 
 25.07.04 카카오 특강 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-04.md))
+
+</details>
+
+### [7월 둘째주, 24주차] : 프로그래밍 대회 준비로 인한 휴가
+
+### [7월 셋째주, 25주차] : 3차 출시
