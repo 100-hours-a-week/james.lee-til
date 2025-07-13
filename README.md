@@ -378,6 +378,8 @@
 
 </details>
 
-### [7월 둘째주, 24주차] : 프로그래밍 대회 준비로 인한 휴가
+### [7월 둘째주, 24주차] : 휴가 (UCPC, SCPC)
 
 ### [7월 셋째주, 25주차] : 3차 출시
+
+25.07.14 aaa ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-14.md))
