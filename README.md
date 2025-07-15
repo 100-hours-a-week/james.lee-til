@@ -384,6 +384,8 @@
 
 25.07.14 발표 준비 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-14.md))
 
-25.07.15 미팅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-14.md))
+25.07.15 미팅 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-15.md))
 
-25.07.16 미팅
+25.07.16 휴가
+
+25.07.17 멘토링 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/07-July/2025-07-17.md))
